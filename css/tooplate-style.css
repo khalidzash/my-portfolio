@@ -120,8 +120,8 @@ b, strong {
 }
 
 .animated-item {
-  font-size: 31px;
-  line-height: normal;
+  font-size: 34px;
+  line-height: 1.6;
   display: block;
   opacity: 0;
   overflow: hidden;
