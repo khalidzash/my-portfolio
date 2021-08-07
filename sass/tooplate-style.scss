@@ -21,8 +21,8 @@ $main-color: #ffc200;
 $border-color: #f2f2f1;
 $button-color: #474559;
 
-$small-font-size: 14px;
-$link-font-size: 16px;
+$small-font-size: 12px;
+$link-font-size: 14px;
 
 @mixin transition-effect {
 	transition: all 0.4s ease;
@@ -75,7 +75,7 @@ a {
 p {
 	font-size: $body-font-size;
 	font-weight: $font-weight-light;
-	line-height: 15;
+	line-height: 1.5;
 	color: $body-font-color;
 }
 
